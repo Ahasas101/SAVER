@@ -47,8 +47,9 @@ The system is divided into three major components:
 
 * Automatic recovery from GPS signal loss
 * GSM reconnection and retry mechanism
-* Data validation to prevent corrupted transmissions
-* Watchdog-based system recovery to ensure reliability
+* Reset mechanism
+  
+  
 
 ---
 
@@ -91,15 +92,9 @@ The system is divided into three major components:
 ## Contributors
 
 * **Ahasas Yadav**
-  Embedded Systems Developer
-  Designed and implemented the complete hardware system including GPS, GSM communication, and self-error correction mechanisms.
-
 * **Rudresh Joshi**
-  Full Stack Developer
-  Designed and implemented the backend infrastructure and frontend user interface.
+  
 
 ---
 
 
-
-If you want a **shorter README**, **college-report version**, or **diagram section**, just tell me.
